@@ -9,7 +9,6 @@ This project is a lightweight, beginner-friendly Python tool that uses **OpenAI 
 - Generates a 2–3 sentence comment in a chosen style (e.g., professional).
 - Automatically evaluates the comment's sentiment and length.
 - Logs all interactions (post, comment, status) to a file.
-- Keeps everything under 25 lines of Python code!
 
 ## 📦 Requirements
 
@@ -85,7 +84,7 @@ This tool is ideal for:
 
 ## 🧑‍💻 Author
 
-Developed by [Your Name] — inspired by a passion for AI and professional engagement.
+Developed by Praveen Shukla — inspired by a passion for AI and professional engagement.
 
 ---
 
